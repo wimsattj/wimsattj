@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wimsattj
 - 👀 I’m interested in ...                Science, theoretical physics, and technology
-- 🌱 I’m currently learning ...           Katlin
+- 🌱 I’m currently learning ...           CSS
 - 💞️ I’m looking to collaborate on ...    Devslopes
 - 📫 How to reach me ...                  wimsattj@att.net
 
